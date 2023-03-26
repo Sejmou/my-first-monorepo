@@ -1,3 +1,9 @@
+# My First Monorepo
+
+This repo is my first attempt at setting up a monorepo with Turborepo. I want to later use a similar monorepo setup for developing my large scale data scatterplot library, allowing me to quickly view it in Storybook as well as in an example Vite React App. I already have built something similar with TSDX, but the Developer Experience is not as nice, especially since TSDX is no longer maintained.
+
+The rest of this readme is copied from the [Design System Starter](https://github.com/vercel/turbo/tree/main/examples/design-system) example provided by Turborepo. 
+
 # Turborepo Design System Starter
 
 This guide explains how to use a React design system starter powered by:
